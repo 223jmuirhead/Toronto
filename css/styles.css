@@ -598,6 +598,11 @@ progress {
   content: "— ";
 }
 
+.small{
+  font-size: 15px;
+  text-align: center;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
